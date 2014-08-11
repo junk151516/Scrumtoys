@@ -1,4 +1,0 @@
-Scrumtoys
-=========
-
-programa prueba
